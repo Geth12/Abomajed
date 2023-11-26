@@ -2,9 +2,9 @@ if game:GetService"Players".LocalPlayer.Character:WaitForChild("Humanoid").RigTy
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/istillplaying2/Travac-Hub/main/UI%20Library"))()
 
-local s = Library:Window("  Travac Hub | Slayer Tycoon", "Travac Hub V1", 0, true)
+local s = Library:Window("  Travac Hub | Abo Majed", "Travac Hub V1", 0, true)
 
-local Home = s:Tab("  Home", true)
+local music = s:Tab("  music", true)
 
 local blade ball = s:Tab("  blade ball", false)
 
